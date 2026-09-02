@@ -1,4 +1,4 @@
-# Django + DRF Practical-Round Boilerplate
+# Django + DRF Boilerplate
 
 Pre-built scaffold for timed practical rounds: DRF + JWT wired up, env-based
 Postgres config with a SQLite fallback, and a worked nested-serializer
